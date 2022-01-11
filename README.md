@@ -6,7 +6,7 @@
 The purpose of the analysis was to refactor code that was previously written for a faster processing time.
 
 ## Results
-The original processing times for 2017 and 2018 stock market analyses were 0.6992188 and 0.684082 seconds, respectively. 
+The original processing times for 2017 and 2018 stock market analyses were 0.6347656 and 0.684082 seconds, respectively. 
 
 ![VBA_Challenge_2017](https://github.com/rsando06/stocks-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
 ![VBA_Challenge_2018](https://github.com/rsando06/stocks-analysis/blob/main/Resources/VBA_Challenge_2018.png?raw=true)
